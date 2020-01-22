@@ -9,5 +9,6 @@ En este curso vemos de todo:
 * El verdadero amor por las buenas práicas.
 * Trucos muy locos del profesor.
 * Las personalidades múltiples de Freddy.
+* Creado por el increíble Junino.
 
 Y como recordatorio amable: **Este read.me es un chiste xd**. Diseñado para el ejemplo. Si llegas aquí, visita el foro de [GamesMadeInPola](https://gamesmadeinpola.com/index.php?forums/ "GamesMadeInPola"). Soy JrMod de Creativo allí.
